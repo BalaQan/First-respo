@@ -1,15 +1,11 @@
-### My first repository is awesome!
+### This is my first repository ###
 
- My name is [BalaQan] and this is my first repository on Github.
+ >My name is [BalaQan] and this is my first repository on Github.
 
-If you can see this file on my project, it's because I'm learning Github.
+ >If you can see this file on my project; it's because I'm learning Github.
 
-My mood:
+ >My mood: [Happy]
 
-> [Happy]
-
-My favorite color:
-
-> [Red]
+ >My favorite color: [Red]
 
 Thank you so much for reading! ☺
