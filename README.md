@@ -1,6 +1,6 @@
 ### This is my first repository ###
 
- >My name is [BalaQan]
+ >I am [BalaQan]
 
  >This is my first repository on Github.
 
@@ -10,4 +10,4 @@
 
  >My favorite color: [Red]
 
-### Thank you so much for reading! ☺ ###
+### Thank you for reading! ☺ ###
