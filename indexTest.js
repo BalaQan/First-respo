@@ -4,7 +4,7 @@ const defaultNextConfig = {
   productionBrowserSourceMaps: true,
   swcMinify: false,
   poweredByHeader: false,
-  staticPageGenerationTimeout: 180,
+  staticPageGenerationTimeout:160,
   experimental: {
     esmExternals: 'loose',
   },
