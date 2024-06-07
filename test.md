@@ -1,2 +1,3 @@
 int {test}
-if {1] ; else
+if {1] 
+; else
