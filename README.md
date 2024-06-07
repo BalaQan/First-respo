@@ -10,4 +10,4 @@
 
  >My favorite color: [Red]
 
-### Thank you for reading! ☺ ###
+### Thank you for watching! ☺ ###
