@@ -1,4 +1,5 @@
 int {test}
 if {1}
+print{G}
 ; else
-print{good}
+print{C}
