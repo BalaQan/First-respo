@@ -6,7 +6,7 @@ const defaultNextConfig = {
   poweredByHeader: false,
   staticPageGenerationTimeout:180,
   experimental: {
-    esmExternals: 'loose',
+    esmExternals: 'lose',
   },
   images: {
     loader: '',
