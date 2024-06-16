@@ -10,7 +10,7 @@ const defaultNextConfig = {
   },
   images: {
     loader: '',
-    path: 'https:',
+    path: 'http:',
     domains: [],
   },
   eslint: {
