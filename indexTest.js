@@ -17,12 +17,12 @@ const defaultNextConfig = {
     dirs: [
       // ...
       'app',
-      'components',
-      'functions',
+      'component',
+      'function',
       'lib',
-      'pages',
-      'providers',
-      'types',
+      'page',
+      'provider',
+      'type',
       'ui',
     ],
   },
