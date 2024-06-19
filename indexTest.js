@@ -16,13 +16,13 @@ const defaultNextConfig = {
   eslint: {
     dirs: [
       // ...
-      'app',
-      'component',
-      'function',
+      'apps',
+      'components',
+      'functions',
       'lib',
-      'page',
-      'provider',
-      'type',
+      'pages',
+      'providers',
+      'types',
       'ui',
     ],
   },
