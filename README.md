@@ -1,6 +1,6 @@
  ### This is my first repository ###
 
- >I am [BalaQan]
+ >I am BalaQan
 
  >This is my first repository on Github.
 
