@@ -1,8 +1,8 @@
  ### This is my first repository ###
 
- >Hello
+ >Hi
 
- >I am BalaQan
+ >My name is BalaQan
 
  >This is my first repository on Github.
 
